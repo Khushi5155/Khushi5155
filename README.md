@@ -58,6 +58,15 @@ Git • GitHub • Postman • Figma • VS Code
 
 ---
 
+
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khushi5155\&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khushi5155\&theme=react-dark\&hide_border=true)
+
+---
+
 ## Portfolio & Resume
 
 *  Portfolio:https://portfolio-seven-green-45.vercel.app/
